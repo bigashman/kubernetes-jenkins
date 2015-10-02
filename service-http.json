@@ -5,7 +5,7 @@
     "name": "jenkins"
   },
   "spec": {
-    "type": "NodePort",
+    "type": "LoadBalancer",
     "selector": {
       "name": "jenkins"
     },
