@@ -15,7 +15,7 @@
         "ports": [
           {
             "containerPort": 8080,
-            "hostPort": 8090
+            "hostPort": 32080
           },
           {
             "containerPort": 50000,
